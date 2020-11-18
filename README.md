@@ -14,4 +14,4 @@ You're ready to go! Run any task by typing `npm run task` (where "task" is the n
 
 # Acquista la tua cassetta di legno
 
-Scopri le migliori [cassette di legno](https://wwww.cassettedilegno.com) della frutta online 
+Scopri le migliori [cassette di legno](https://www.cassettedilegno.com) della frutta online 
